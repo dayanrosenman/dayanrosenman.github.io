@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "David Dayan-Rosenman"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Physician leader, Computer scientist"
+  bio    : "Physician Leader, Computer Scientist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,10 +70,10 @@ author:
       url: "https://dayanrosenman.github.com/"
 
 footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://dayanrosenman.github.com/"
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://dayanrosenman.github.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
