@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-This is a test.
+Experienced physician leader with a specialization in addiction medicine, HIV care, population health management, and integrated care design. Expert in leveraging multimodal analytics to optimize healthcare delivery for socially complex populations. Demonstrated success in leading clinical program development that cohesively integrates medical, behavioral, and substance use care to enhance patient outcomes and care efficiency
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
