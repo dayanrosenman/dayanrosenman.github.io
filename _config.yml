@@ -15,9 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Periscope Clinical Analytics LLC
 email: david@periscopeclinicalanalytics.com
-description: # >- # this means to ignore newlines until "baseurl:"
-  Periscope Analytics provides expertise at the interface for a decade of clinical practice as a physician leader and a deep understanding of data and models.
-#twitter_username: username
+description: >- # this means to ignore newlines until "baseurl:"
+#Periscope Analytics provides expertise at the interface for a decade of clinical practice as a physician leader and a deep understanding of data and models.
 github_username: dayanrosenman
 minimal_mistakes_skin: neon #default
 search: true
@@ -29,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: US/Eastern # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
