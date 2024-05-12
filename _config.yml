@@ -63,7 +63,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.periscopeclinicalanalytics.com"
- - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/david-dayan-rosenman-629330135/"
     - label: "GitHub"
