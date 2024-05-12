@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "David Dayan-Rosenman"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Physician leader, computer scientist, dog lover."
+  bio    : "Physician leader | Computer scientist | Dog lover."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
