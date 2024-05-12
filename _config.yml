@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Periscope Analytics provides expertise at the interface for a decade of clinical practice as a physician leader and a deep understanding of data and models.
 #twitter_username: username
 github_username: dayanrosenman
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon #default
 search: true
 
 # Build settings
@@ -63,12 +63,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.periscopeclinicalanalytics.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+ - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/david-dayan-rosenman-629330135/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
+      url: "https://github.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
