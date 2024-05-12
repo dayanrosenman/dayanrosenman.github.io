@@ -12,7 +12,7 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I started [Peri
 
 ### Education
 
-* Bachelor of Science, Computer Science, 2000\\
+* Bachelor of Science, Computer Science | 2000\\
 **University Paris 7**, Paris, France.
 
 * Master of Science, Computer Science & Agorithms, 2001\\
