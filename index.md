@@ -21,8 +21,19 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I started [Peri
 * Master of Art, Political Science, 2005\\
 **University of California Los Angeles**, Los Angeles, USA.
 
-* Medical Doctor (MD), 2010 \\
+* Doctor of Medicine (MD), 2010 \\
 **Weill Cornell Medical College**, New York, NY, USA.
+
+* Psychiatry Internship, 2011 \\
+**Montefiore Medical Center / Albert Einstein College of Medicine**, Bronx, NY, USA.
+
+* Internal Medicine Residency, 2014 \\
+Residency Program in Social Medicine
+**Montefiore Medical Center / Albert Einstein College of Medicine**, Bronx, NY, USA.
+
+* Addiction Medicine Fellowship, 2015 \\
+The Addiction Institute of New York
+**Mount Sinai Roosevelt**, New York, NY, USA.
 
 [Full CV (2024)](/assets/Dayan-Rosenman CV.pdf)
 
