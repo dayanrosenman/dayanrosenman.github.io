@@ -57,14 +57,12 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I founded [Peri
 
 * Cityblock and Value-Based Models, Montefiore Residency program in Social Medicine, Bronx, NY 
 
-* Medication Assisted Treatment in Primary Care - Addressing alcohol and opioid use disorders safely and effectively
+* Medication Assisted Treatment in Primary Care - Addressing alcohol and opioid use disorders safely and effectively, Cityblock Health
 
 * Contingency Management to treat Substance Use Disorders, Cityblock Health
 
 * Motivational Interviewing, Cityblock Health
 
 * Buprenorphine Microdosing Induction for the treatment of Opioid Use Disorder, Reach Project, Ithaca, NY - 8/2022
-
-* Addiction Medicine Grand Rounds, Mount Sinai Roosevelt
 
 [Full CV (2024)](/assets/Dayan-Rosenman CV.pdf)
