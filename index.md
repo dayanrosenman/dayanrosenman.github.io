@@ -27,12 +27,12 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I started [Peri
 * Psychiatry Internship, 2011 \\
 **Montefiore Medical Center / Albert Einstein College of Medicine**, Bronx, NY, USA.
 
-* Internal Medicine Residency, 2014 \\
-Residency Program in Social Medicine\\
+* Internal Medicine Residency, 2014\\
+<em>Residency Program in Social Medicine</em>\\
 **Montefiore Medical Center / Albert Einstein College of Medicine**, Bronx, NY, USA.
 
 * Addiction Medicine Fellowship, 2015 \\
-The Addiction Institute of New York\\
+<em>The Addiction Institute of New York</em>\\
 **Mount Sinai Roosevelt**, New York, NY, USA.
 
 [Full CV (2024)](/assets/Dayan-Rosenman CV.pdf)
