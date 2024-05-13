@@ -51,17 +51,19 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I founded [Peri
 
 * Dayan-Rosenman, David, and Spencer, Steven. <em>Implementation of Medications for Alcohol and Opioid Use Disorders in a Value-Based Organization - Unlocking Value by Addressing Unmet Needs for Medicaid and Dually-Eligible Beneficiaries.</em>  Population Health Management {forthcoming - accepted 5/2024}
 
-### Invited lectures
+### Lectures and Seminars
 
 * Harm Reduction and Value-Based Care, Boston College School of Social Work, Boston, MA
 
 * Cityblock and Value-Based Models, Montefiore Residency program in Social Medicine, Bronx, NY 
 
+* Medication Assisted Treatment in Primary Care - Addressing alcohol and opioid use disorders safely and effectively
+
 * Contingency Management to treat Substance Use Disorders, Cityblock Health
 
 * Motivational Interviewing, Cityblock Health
 
-* Buprenorphine Microdosing Induction for the treatment of Opioid Use Disorder, Reach Project, Ithaca, NY
+* Buprenorphine Microdosing Induction for the treatment of Opioid Use Disorder, Reach Project, Ithaca, NY - 8/2022
 
 * Addiction Medicine Grand Rounds, Mount Sinai Roosevelt
 
