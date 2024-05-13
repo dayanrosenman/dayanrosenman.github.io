@@ -35,5 +35,14 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I started [Peri
 <em>The Addiction Institute of New York</em>\\
 **Mount Sinai Roosevelt**, New York, NY, USA.
 
+###Selected professional experiences
+
+* Head of Primary Care Program Design - **Cityblock Health**
+* Principal - **Addiction Consult NYC**
+* Medical Director - **Housing Works East New York Health Center**
+* Attending Primary Care Physician - **Montefiore Medical Center**
+* Assistant Professor of Medicine - **Albert Einstein College of Medicine**
 [Full CV (2024)](/assets/Dayan-Rosenman CV.pdf)
 
+##Selected Publications and lectures
+* Dayan-Rosenman, David, and Spencer, Steven. "Implementation of Medications for Alcohol and Opioid Use Disorders in a Value-Based Organization - Unlocking Value by Addressing Unmet Needs for Medicaid and Dually-Eligible Beneficiaries."  Population Health Management {forthcoming - accepted 5/2024}
