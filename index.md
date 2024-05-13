@@ -8,7 +8,7 @@ permalink: /
 **About me:** 
 I am an experienced physician leader with a board certification in Internal Medicine and Addiction Medicine, certification in HIV care, and more than a decade of clinical practice and supervision. My research interests are in population health management and integrated care design, with a focus on leveraging multimodal clinical analytics to optimize healthcare delivery for socially complex populations. I have both worked in and directed [Federally Qualified Health Centers](https://www.healthcare.gov/glossary/federally-qualified-health-center-fqhc/) including at [Montefiore](https://www.montefiorehealthsystem.org/), [Housing Works](https://healthcare.housingworks.org/), [The Reach Project](https://www.reachprojectinc.org/), and [Callen Lorde](https://callen-lorde.org/), and demonstrated success in leading clinical program development that cohesively integrates medical, behavioral, and substance use care to enhance patient outcomes and care efficiency.
 
-After 4 years at [Cityblock Health](https://www.cityblock.com/), I started [Periscope Clinical Analytics](https://www.periscopeclinicalanalytics.com/), a boutique consulting firm enabling health delivery system embrace Value Based Care and population health management by identifying and focusing on their most complex patients.
+After 4 years at [Cityblock Health](https://www.cityblock.com/), I founded [Periscope Clinical Analytics](https://www.periscopeclinicalanalytics.com/), a boutique consulting firm enabling health organizations to embrace Value Based Care and population health management by identifying and focusing on their most complex patients.
 
 ### Education
 
@@ -35,14 +35,34 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I started [Peri
 <em>The Addiction Institute of New York</em>\\
 **Mount Sinai Roosevelt**, New York, NY, USA.
 
-###Selected professional experiences
+### Selected professional experiences
 
 * Head of Primary Care Program Design - **Cityblock Health**
-* Principal - **Addiction Consult NYC**
-* Medical Director - **Housing Works East New York Health Center**
-* Attending Primary Care Physician - **Montefiore Medical Center**
-* Assistant Professor of Medicine - **Albert Einstein College of Medicine**
-[Full CV (2024)](/assets/Dayan-Rosenman CV.pdf)
 
-##Selected Publications and lectures
-* Dayan-Rosenman, David, and Spencer, Steven. "Implementation of Medications for Alcohol and Opioid Use Disorders in a Value-Based Organization - Unlocking Value by Addressing Unmet Needs for Medicaid and Dually-Eligible Beneficiaries."  Population Health Management {forthcoming - accepted 5/2024}
+* Principal - **Addiction Consult NYC**
+
+* Medical Director - **Housing Works East New York Health Center**
+
+* Attending Primary Care Physician - **Montefiore Medical Center**
+
+* Assistant Professor of Medicine - **Albert Einstein College of Medicine**
+
+### Selected Publication
+
+* Dayan-Rosenman, David, and Spencer, Steven. <em>Implementation of Medications for Alcohol and Opioid Use Disorders in a Value-Based Organization - Unlocking Value by Addressing Unmet Needs for Medicaid and Dually-Eligible Beneficiaries.</em>  Population Health Management {forthcoming - accepted 5/2024}
+
+### Invited lectures
+
+* Harm Reduction and Value-Based Care, Boston College School of Social Work, Boston, MA
+
+* Cityblock and Value-Based Models, Montefiore Residency program in Social Medicine, Bronx, NY 
+
+* Contingency Management to treat Substance Use Disorders, Cityblock Health
+
+* Motivational Interviewing, Cityblock Health
+
+* Buprenorphine Microdosing Induction for the treatment of Opioid Use Disorder, Reach Project, Ithaca, NY
+
+* Addiction Medicine Grand Rounds, Mount Sinai Roosevelt
+
+[Full CV (2024)](/assets/Dayan-Rosenman CV.pdf)
