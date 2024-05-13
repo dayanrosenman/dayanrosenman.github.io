@@ -25,27 +25,15 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I founded [Peri
 **University of California Los Angeles**, Los Angeles, USA.
 * Master of Science, Computer Science & Agorithms, 2001\\
 **University Paris 7 / Ecole Normale Superieure / Ecole Polytechnique**, Paris, France.
-
 * Bachelor of Science, Computer Science | 2000\\
 **University Paris 7**, Paris, France.
-
-
-
-
-
-
-
 
 ### Selected professional experiences
 
 * Head of Primary Care Program Design - **Cityblock Health**
-
 * Principal - **Addiction Consult NYC**
-
 * Medical Director - **Housing Works East New York Health Center**
-
 * Attending Primary Care Physician - **Montefiore Medical Center**
-
 * Assistant Professor of Medicine - **Albert Einstein College of Medicine**
 
 ### Selected Publication
@@ -55,15 +43,10 @@ After 4 years at [Cityblock Health](https://www.cityblock.com/), I founded [Peri
 ### Lectures and Seminars
 
 * Harm Reduction and Value-Based Care, Boston College School of Social Work, Boston, MA
-
 * Cityblock and Value-Based Models, Montefiore Residency program in Social Medicine, Bronx, NY 
-
 * Medication Assisted Treatment in Primary Care - Addressing alcohol and opioid use disorders safely and effectively, Cityblock Health
-
 * Contingency Management to treat Substance Use Disorders, Cityblock Health
-
 * Motivational Interviewing, Cityblock Health
-
 * Buprenorphine Microdosing Induction for the treatment of Opioid Use Disorder, Reach Project, Ithaca, NY - 8/2022
 
 [Full CV (2024)](/assets/Dayan-Rosenman CV.pdf)
