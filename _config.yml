@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Periscope Clinical Analytics LLC
+title: David @ Periscope Clinical Analytics LLC
 email: david@periscopeclinicalanalytics.com
 description: >- # this means to ignore newlines until "baseurl:"
 #Periscope Analytics provides expertise at the interface for a decade of clinical practice as a physician leader and a deep understanding of data and models.
@@ -59,15 +59,15 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Physician Leader, Computer Scientist"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.periscopeclinicalanalytics.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://www.periscopeclinicalanalytics.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/david-dayan-rosenman-629330135/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://dayanrosenman.github.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://dayanrosenman.github.com/"
 
 footer:
 #  links:
