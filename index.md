@@ -11,29 +11,30 @@ I am an experienced physician leader with a board certification in Internal Medi
 After 4 years at [Cityblock Health](https://www.cityblock.com/), I founded [Periscope Clinical Analytics](https://www.periscopeclinicalanalytics.com/), a boutique consulting firm enabling health organizations to embrace Value Based Care and population health management by identifying and focusing on their most complex patients.
 
 ### Education
+* Addiction Medicine Fellowship, 2015 \\
+<em>The Addiction Institute of New York</em>\\
+**Mount Sinai Roosevelt**, New York, NY, USA.
+* Internal Medicine Residency, 2014\\
+<em>Residency Program in Social Medicine</em>\\
+**Montefiore Medical Center / Albert Einstein College of Medicine**, Bronx, NY, USA.
+* Psychiatry Internship, 2011 \\
+**Montefiore Medical Center / Albert Einstein College of Medicine**, Bronx, NY, USA.
+* Doctor of Medicine (MD), 2010 \\
+**Weill Cornell Medical College**, New York, NY, USA.
+* Master of Art, Political Science, 2005\\
+**University of California Los Angeles**, Los Angeles, USA.
+* Master of Science, Computer Science & Agorithms, 2001\\
+**University Paris 7 / Ecole Normale Superieure / Ecole Polytechnique**, Paris, France.
 
 * Bachelor of Science, Computer Science | 2000\\
 **University Paris 7**, Paris, France.
 
-* Master of Science, Computer Science & Agorithms, 2001\\
-**University Paris 7 / Ecole Normale Superieure / Ecole Polytechnique**, Paris, France.
 
-* Master of Art, Political Science, 2005\\
-**University of California Los Angeles**, Los Angeles, USA.
 
-* Doctor of Medicine (MD), 2010 \\
-**Weill Cornell Medical College**, New York, NY, USA.
 
-* Psychiatry Internship, 2011 \\
-**Montefiore Medical Center / Albert Einstein College of Medicine**, Bronx, NY, USA.
 
-* Internal Medicine Residency, 2014\\
-<em>Residency Program in Social Medicine</em>\\
-**Montefiore Medical Center / Albert Einstein College of Medicine**, Bronx, NY, USA.
 
-* Addiction Medicine Fellowship, 2015 \\
-<em>The Addiction Institute of New York</em>\\
-**Mount Sinai Roosevelt**, New York, NY, USA.
+
 
 ### Selected professional experiences
 
